@@ -1,3 +1,5 @@
 def funfun(a):
-Name =input("Apna Naam likhiye")
-print(f"MR/MS {Name}, you are {a}% very funny")
+    name = input("Apna Naam likhiye: ")
+    print(f"MR/MS {name}, you are {a}% very funny")
+    
+funfun(100)
