@@ -1,0 +1,7 @@
+pandas
+xgboost
+scikit-learn
+streamlit
+joblib
+
+Truck_price_prediction
